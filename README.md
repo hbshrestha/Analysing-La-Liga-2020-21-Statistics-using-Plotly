@@ -3,6 +3,7 @@ The objective of creating this repository is to analyse the basic statistics of 
 
 ## Data
 Data for the animated line chart race is based on: https://www.fctables.com/spain/liga-bbva/
+
 Data for dashboard is based on: https://fbref.com/en/comps/12/La-Liga-Stats
 
 ## Pre-requisites
