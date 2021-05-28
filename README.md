@@ -11,3 +11,4 @@ Data for dashboard is based on: https://fbref.com/en/comps/12/La-Liga-Stats
 - plotly (version 4.14.3)
 
 ## Description 
+The description of this project is available in this blog: https://towardsdatascience.com/analysing-la-liga-2020-21-with-plotly-1f63c99073b4
